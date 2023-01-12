@@ -1,0 +1,33 @@
+body {
+background-color: grey;
+font-size: 14px;
+font-family: 'Times New Roman', Times, serif;
+color: blue;
+}
+
+h1 {
+border-bottom: 14px;
+color: red;
+font-size: 16px;
+text-align: center;
+text-transform: uppercase;
+
+
+}
+
+a:link {
+    color:red;
+}
+
+a:hover {
+    color:blue
+}
+
+img {
+    border: solid;
+    border: 1px;
+    border-color: red;
+    padding: 10px;
+    width: 250px;
+    opacity: 0.5;
+}
